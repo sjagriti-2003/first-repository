@@ -1,4 +1,7 @@
 # first-repository
 this is my first repository
 <br>
-Author-jagriti singh
+Author-jagriti (apna college)
+<br>
+my repository
+
